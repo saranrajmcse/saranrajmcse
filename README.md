@@ -41,9 +41,9 @@
 ---
 </details>
 
-[website]: http://msraj.c1.biz
+[website]: https://msraj.in
 [twitter]: https://twitter.com/m_s_raj
 [youtube]: https://www.youtube.com/channel/UCu97iz35-KhqcplxC3KiEAA
-[instagram]: https://instagram.com/saranrajm31
+[instagram]: https://instagram.com/saranrajmcse
 [telegram]:https://telegram.me/BabyOptimusPrime
-[linkedin]: https://www.linkedin.com/in/saran-raj-m-8919511a1
+[linkedin]: https://www.linkedin.com/in/saranrajmcse
