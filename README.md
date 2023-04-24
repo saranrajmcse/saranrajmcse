@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=msraj&style=for-the-badge&url=https%3A%2F%2Fmsraj.c1.biz)](http://msraj.c1.biz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/m_s_raj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fm_s_raj&screen_name=m_s_raj)
 
-## I'm a Student,Developer and Designer!
+## I'm a Developer and Designer!
 
 - 🔭 I’m currently working on a  Open Source Projects.
 - 🌱 I’m currently learning everything 🤣
